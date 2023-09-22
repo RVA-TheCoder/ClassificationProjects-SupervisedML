@@ -1,0 +1,7 @@
+Stage 1 :     with imbalance Data
+
+stage 2 (a) : with up-sampling
+stage 2(b)  : with down-sampling
+stage 2(c)  : with Combine sampling
+
+stage 3 (Final Model)  :    with Combine sampling and Hyper-Parameter Tuning of Best Performing ML Model.
