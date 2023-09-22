@@ -26,6 +26,7 @@ Stage II(A) : In this analysis and Model training is done with :
 
           
 Stage II(B) : In this analysis and Model training is done with : 
+
               (a) Pipeline : 
                  - Missing value Imputation
                  - Ohe.
@@ -35,6 +36,7 @@ Stage II(B) : In this analysis and Model training is done with :
               (c) Feature Engineering    
 
 Stage II(C) : In this analysis and Model training is done with : 
+
               (a) Pipeline : 
                  - Missing value Imputation
                  - Ohe.
@@ -44,6 +46,7 @@ Stage II(C) : In this analysis and Model training is done with :
               (c) Feature Engineering 
               
 Stage III FinalModel : In this analysis and Model training is done with : 
+
                       (a) Pipeline : 
                        - Missing value Imputation
                        - Ohe.
